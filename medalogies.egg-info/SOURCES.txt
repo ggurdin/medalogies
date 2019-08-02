@@ -1,0 +1,13 @@
+README.md
+setup.py
+medalogies/__init__.py
+medalogies/__main__.py
+medalogies/clean_comments.py
+medalogies/make_dataset.py
+medalogies/process_data.py
+medalogies/train_embeddings.py
+medalogies/write_stats.py
+medalogies.egg-info/PKG-INFO
+medalogies.egg-info/SOURCES.txt
+medalogies.egg-info/dependency_links.txt
+medalogies.egg-info/top_level.txt
